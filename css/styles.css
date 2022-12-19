@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+	overflow-x:hidden;
+
+}
+.nav-link{
+	text-decoration:none;
+	color:black;
+	padding-left:4px;
+	background:transparent!important;	
+}
+.facilitie-class{
+	padding:0px;
+	margin:0px;
+}
+.first-style{
+	font-size:40px;
+}
+.img-center{
+	margin-left:380px;
+}
+.fst-dot{
+   padding-top:0px;
+   padding-bottom:20px;
+}
+.second-row{
+	padding-top:32px;
+}
+.card-padding{
+	padding-bottom:23px;
+}
+.card-line{
+	padding-top:20px;
+}
+
+.ground_background{
+	background: url("../images/background.jpeg")no-repeat fixed center;
+	background-position: right bottom, left top;
+	background-size: cover; 
+}
+
+.font-color{
+         font-size:40px;
+         color:#ffffff;
+}
+.dot{
+	padding-left:500px;
+	padding-bottom:20px;
+}
+.last-line{
+	position:absolute;
+	bottom:0px;
+	background-color:blue;
+	color:white;
+	font-size:24px;
+}
+.counteact{
+text-align: center;
+	font-size:40px;
+}
+.not-dot{
+text-align: center;
+}
+.big-line{
+	padding-left:150px;
+}
+.fst-hr{
+margin:0px;
+}
+.copy-lain{
+	padding-left:300px;
+	padding-top:20px;
+	color:#ffffff;
+	font-size:15px;
+}
+.contact-text{
+	text-align: center;
+}
+.contact-table{
+	text-align:center;
+}
+.slick-next:before, .slick-prev:before {
+
+    color: black;
+}
+.slick-arrow-left{
+	border:2px solid transparent;
+	border-radius:50%;
+	background-color:#ffffff;
+	opacity:0.5;
+	width:70px;
+	height:70px;
+	color:black;
+	z-index:1;
+	position:absolute;
+	bottom: 2px;
+	text-align:center;
+    margin:  0px 0px 10px 390px;
+	
+}
+
+.banner_slider .single_slide {
+	position: relative;
+}
+.on-slider{
+	   background-color: rgba(255,255,255,0.6);
+       position:absolute;
+	   margin:15px 490px ;
+	   padding: 5px;
+       bottom:10px;
+       left:auto;
+}
+.orange-plot{
+	color:#f38342;
+}
+.slick-arrow-right{
+	border:2px solid transparent;
+	border-radius:50%;
+	background-color:#ffffff;
+	opacity:0.5;
+	width:70px;
+	height:70px;
+	color:black;
+	position:absolute;
+	bottom: 2px;
+    margin: 0px 0px 10px 880px;
+}
+.left-side-arrow{
+	font-size:56px;
+	color:orange;
+}
+.right-side-arrow{
+	font-size:56px;
+	color:orange;
+}
